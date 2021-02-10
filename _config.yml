@@ -1,24 +1,21 @@
 title: korpinen.dev
-#description:
+description: HW/FW/SW
 author: Pekka Korpinen
 github_username:  pkorpine
 linkedin_username: korpinen
-stackoverflow_username: "7689393"
 
 # Build settings
 markdown: kramdown
 theme: minima
-#plugins:
-#  - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - .gitignore
+  - .github
