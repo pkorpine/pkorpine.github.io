@@ -8,5 +8,5 @@ title: Home
 
 ## Projects
 
-* [Zyxel NR7101 tool](https://github.com/pkorpine/nr7101): retrieves connection status from the 5G modem.
+* [Zyxel NR7101 tool](https://github.com/pkorpine/nr7101): retrieves connection status from a Zyxel 5G modem.
 * [go-watchdog](https://github.com/pkorpine/go-watchdog): remote watchdog service written in Go that uses Telegram to notify users about watchdog events.
