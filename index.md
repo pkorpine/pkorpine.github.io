@@ -8,6 +8,7 @@ title: Home
 
 ## Projects
 
+* [Zyndra](https://github.com/pkorpine/zyndra): A custom firmware for a Pluto-SDR clone (Zynq-7020 + AD936x) 
 * [Zyxel NR7101 tool](https://github.com/pkorpine/nr7101): retrieves connection status from a Zyxel 5G modem.
 * [go-watchdog](https://github.com/pkorpine/go-watchdog): remote watchdog service written in Go that uses Telegram to notify users about watchdog events.
 
